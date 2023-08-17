@@ -1,0 +1,1 @@
+ALTER TABLE emp ADD stars VARCHAR2(50);
