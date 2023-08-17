@@ -1,0 +1,5 @@
+a. O valor de v_weight na posição 1 é: 600 (Declaração inicial)
+b. O valor de v_new_locn na posição 1 é: Sem valor (Não é declarado)
+c. O valor de v_weight na posição 2 é: 2 (Declarado em 1 no primeiro bloco)
+d. O valor de v_message na posição 2 é: 'Product 11001' (Declarado dentro do mesmo bloco)
+e. O valor de v_new_locn na posição 2 é: 'Western Europe' (Declarado dentro do bloco interno e concatenado na posição 2)
