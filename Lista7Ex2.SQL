@@ -1,0 +1,1 @@
+CREATE TABLE emps AS SELECT * FROM emp WHERE 1 = 2;
